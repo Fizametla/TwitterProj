@@ -27,5 +27,6 @@ Part 1 Video:
 <img src='https://media.giphy.com/media/8a88acPmZgv162Ntui/giphy.gif' width='' alt='Video Walkthrough' />
 
 Part 2 Video: 
+
 <img src='https://media.giphy.com/media/UkbFjQRau0SYiunmWN/giphy.gif' width='' alt='Video Walkthrough' />
 
